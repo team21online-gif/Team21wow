@@ -1,0 +1,5 @@
+{
+  "name": "Team21 LMS",
+  "description": "A comprehensive Learning Management System for Team21 allowing admins to manage courses and users, mentors to grade and guide students, and students to learn and submit coursework. Features AI-powered course generation and tutoring.",
+  "requestFramePermissions": []
+}
